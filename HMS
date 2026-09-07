@@ -40,3 +40,10 @@ Create laboratory test requests.
 Record test results.
 Generate laboratory reports.
 Allow doctors to view test results.
+
+Billing and Payment
+
+Generate patient bills.
+Calculate consultation, laboratory, pharmacy and other charges.
+Record payments.
+Maintain payment status and billing history.
