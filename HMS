@@ -30,3 +30,10 @@ Medical Record Management
 Maintain electronic patient medical records.
 Store diagnosis, treatment, test results and medical history.
 Allow authorized doctors to update records.
+
+Laboratory Management
+
+Create laboratory test requests.
+Record test results.
+Generate laboratory reports.
+Allow doctors to view test results.
