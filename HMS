@@ -1,0 +1,32 @@
+Hospital Management System
+
+Version 1.0
+
+Specifications:
+
+Patient Management
+
+Patient registration and login.
+Store and update patient details.
+Maintain patient medical history.
+Search and retrieve patient records.
+
+Appointment Management
+
+Book appointments between patients and doctors.
+View available doctors and appointment slots.
+Reschedule or cancel appointments.
+Maintain appointment status.
+
+Doctor Management
+
+Maintain doctor profiles and specializations.
+View assigned appointments.
+Access patient medical records.
+Enter diagnosis and treatment details.
+
+Medical Record Management
+
+Maintain electronic patient medical records.
+Store diagnosis, treatment, test results and medical history.
+Allow authorized doctors to update records.
